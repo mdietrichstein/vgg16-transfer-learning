@@ -1,7 +1,7 @@
 # Custom
 datasets/
-vgg16.npy
-codes.npy
+*.npy
+*.tar.gz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
