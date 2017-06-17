@@ -1,4 +1,5 @@
 # Custom
+zips
 logs/
 *.csv
 .DS_Store
